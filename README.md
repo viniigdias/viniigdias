@@ -1,6 +1,6 @@
 # Olá! Sou o Vinicius Dias. 👨🏻‍💻
 
-Sou aluno Sistemas de Informação pela [__Univesidade de Fortaleza__](https://uol.unifor.br)  buscando aprender e aprimorar minhas habilidades como programador. Atualmente curso Desenvolvedor Full Stack, estudando na [__Digital College__](https://digitalcollege.com.br/) comprometido com a busca ao aprendizado!
+Sou aluno de Ciências da computação pela [__Univesidade de Fortaleza__](https://uol.unifor.br), Buscando aprender e aprimorar minhas habilidades como programador. Atualmente curso Desenvolvedor Full Stack, estudando na [__Digital College__](https://digitalcollege.com.br/).
 
 Em busca de oportunidades, me disponho a assumir posições de Estagiário e Dev Jr. 👨🏻‍💻
 
