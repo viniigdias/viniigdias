@@ -1,8 +1,8 @@
 # Olá! Sou o Vinicius Dias. 👨🏻‍💻
 
-Cientista da computação pela [__Univesidade de Fortaleza__](https://uol.unifor.br), Buscando aprender e aprimorar minhas habilidades como programador. Atualmente Desenvolvedor Full Stack
+Cientista da computação pela [__Univesidade de Fortaleza__](https://uol.unifor.br), Buscando aprender e aprimorar minhas habilidades como programador. Atualmente Desenvolvedor Full Stack 👨🏻‍💻
 
-Em busca de oportunidades, assumo atualmente a posição de Dev Jr. 👨🏻‍💻
+
 
 ##
 
