@@ -2,7 +2,7 @@
 
 Sou aluno de Ciências da computação pela [__Univesidade de Fortaleza__](https://uol.unifor.br), Buscando aprender e aprimorar minhas habilidades como programador. Atualmente Desenvolvedor Full Stack
 
-Em busca de oportunidades, me disponho a assumir posições de Dev Jr. 👨🏻‍💻
+Em busca de oportunidades, assumo atualmente a posição de Dev Jr. 👨🏻‍💻
 
 ##
 
