@@ -57,12 +57,12 @@ Meu foco é construir arquiteturas eficientes, unindo desenvolvimento Full Stack
   <tr>
     <td align="center">
       <a href="https://github.com/viniigdias">
-        <img src="https://github-readme-stats.vercel.app/api?username=viniigdias&show_icons=true&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&include_all_commits=true&count_private=true" alt="Status de Viniigdias" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniigdias&show_icons=true&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Status de Viniigdias" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/viniigdias">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniigdias&layout=donut&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniigdias&layout=donut&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&langs_count=6&cache_seconds=86400" alt="Linguagens Mais Usadas" />
       </a>
     </td>
   </tr>
