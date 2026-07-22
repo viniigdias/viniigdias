@@ -5,7 +5,7 @@
   <h3 align="left">Desenvolvedor Full Stack | Inovação, Dados e Automação</h3>
 </div>
 
-Atualmente atuando no **Núcleo de Inovação e Dados da Camed Corretora de Seguros**, onde foco na criação de soluções escaláveis, integração de dados e otimização de fluxos de trabalho. Sou formando em **Ciência da Computação pela [Universidade de Fortaleza (UNIFOR)](https://uol.unifor.br)**. 
+Atualmente atuando no **Núcleo de Inovação e Dados da Camed Corretora de Seguros**, onde foco na criação de soluções escaláveis, integração de dados e otimização de fluxos de trabalho. Sou formado em **Ciência da Computação pela [Universidade de Fortaleza (UNIFOR)](https://uol.unifor.br)**. 
 
 Meu foco é construir arquiteturas eficientes, unindo desenvolvimento Full Stack com ferramentas avançadas de automação, testes e monitoramento.
 
