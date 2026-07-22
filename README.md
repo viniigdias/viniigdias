@@ -54,10 +54,9 @@ Meu foco é construir arquiteturas eficientes, unindo desenvolvimento Full Stack
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniigdias&show_icons=true&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Status de Viniigdias" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniigdias&show_icons=true&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&cache_seconds=86400" alt="Status de Viniigdias" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniigdias&layout=donut&theme=transparent&title_color=adbac7&text_color=adbac7&hide_border=true&langs_count=6&cache_seconds=86400" alt="Linguagens Mais Usadas" />
 </div>
-
 ---
 
 ### 📫 Conecte-se comigo
